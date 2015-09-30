@@ -1,0 +1,15 @@
+{
+  "name": "auto_release",
+  "version": "1.0.0",
+  "description": "auto release scheduled work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BroFred",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "formidable": "^1.0.17"
+  }
+}
