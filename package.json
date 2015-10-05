@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.3",
-    "formidable": "^1.0.17"
+    "formidable": "^1.0.17",
+    "smb2": "^0.2.6"
   }
 }
